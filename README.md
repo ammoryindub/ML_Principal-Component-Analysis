@@ -10,3 +10,5 @@ Machine Learning - Principal Component Analysis
 - PCA Visualization
 
 - PCA
+
+- Interpreting the components
