@@ -1,8 +1,8 @@
 # ML_Principal-Component-Analysis
 Machine Learning - Principal Component Analysis
 
-PCA.png
-**'Classified Data.csv'**
+
+**'PCA.png'**
 files are associated with 01-ML-K Nearest-Neighbors
 
 ### 01-ML-Principal Component Analysis
