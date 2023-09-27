@@ -8,3 +8,5 @@ Machine Learning - Principal Component Analysis
 - Get the data
 
 - PCA Visualization
+
+- PCA
