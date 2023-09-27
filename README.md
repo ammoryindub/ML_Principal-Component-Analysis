@@ -3,7 +3,7 @@ Machine Learning - Principal Component Analysis
 
 
 **'PCA.png'**
-files are associated with 01-ML-K Nearest-Neighbors
+file are associated with 01-ML-K Nearest-Neighbors
 
 ### 01-ML-Principal Component Analysis
 - Import libraries
