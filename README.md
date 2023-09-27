@@ -3,7 +3,7 @@ Machine Learning - Principal Component Analysis
 
 
 **'PCA.png'**
-file are associated with 01-ML-Principal-Component-Analysis
+file is associated with 01-ML-Principal-Component-Analysis
 
 ### 01-ML-Principal Component Analysis
 - Import libraries
