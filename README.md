@@ -6,3 +6,5 @@ Machine Learning - Principal Component Analysis
 - Import libraries
 
 - Get the data
+
+- PCA Visualization
